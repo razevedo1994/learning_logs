@@ -17,5 +17,5 @@
 ---
 
 <p align="center">
-  <img src="project.png" >
+  <img src="project.PNG" >
 </p>
