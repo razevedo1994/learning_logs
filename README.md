@@ -11,7 +11,7 @@
 
 ## Sobre o projeto:
 
-* O projeto Learning Logs está presente no livro "Python Crash Course", ele tem por objetivo a aplicação prática dos conceitos de Python abordados no livro.
+* O projeto Learning Logs está presente no livro "Python Crash Course", ele tem por objetivo a aplicação prática dos conceitos de Python abordados no livro. A aplicação é um Web App no qual o usuário pode criar uma conta e fazer o registro de aprendizado criando tópicos de assuntos especificos. 
 
 
 ---
